@@ -1,0 +1,78 @@
+.container
+{
+    height: auto;
+    width: 90%;
+    margin: auto;
+}
+    .header
+    {
+     height: 550px;  
+     width: 100%; 
+     background-color: black;
+    }
+
+    div
+    {
+        
+        height :600;
+        width : 100%;
+        background-size: cover;    
+    }
+    h1
+    {
+        color: crimson;
+    }
+    h3
+    {
+        color: crimson;
+    }
+    #image
+    {
+        height:200px;
+        width:200px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius:50%;
+     
+    }
+    .logo
+{
+    height:50px;
+    width: 500px
+}
+     .logo ul
+     {
+    padding:10px;
+    height: 2px;
+    width: 2px;
+       
+     }
+    .logo ul li
+     {
+       display:inline;
+       margin-left:40px;
+       padding:10px;
+    
+
+     }
+     
+    .logo ul li img
+     {
+         margin-top: 10px;
+    height: 30px;
+    width: 30px;
+    }
+            
+    .footer
+    {
+     height: 600px;  
+     width: 100%; 
+     background-color: black;
+    }
+    p
+    {
+        color: white;
+    }
+ h2{
+     color: crimson;
+ }
